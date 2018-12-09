@@ -31,7 +31,7 @@ def get_proxies():
 # ua_list:  https://udger.com/resources/ua-list
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0',
-    'From': 'macrus.aurelius@rome.com' 
+    'From': 'marcus.aurelius@rome.com' 
 }
 
 
